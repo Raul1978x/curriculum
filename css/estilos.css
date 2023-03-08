@@ -1,0 +1,59 @@
+body {
+  padding: 3rem;
+  margin-bottom: 2rem;
+  background-color: rgb(63, 78, 79);
+  color: rgb(44, 54, 57);
+}
+.contenedor {
+  padding: 0rem 0rem 2rem 0rem;
+  margin: 1rem;
+  border: rgb(230, 221, 196) solid;
+  border-radius: 1rem;
+  background: linear-gradient(rgb(162, 123, 92), rgb(230, 221, 196));
+  /* background: rgb(230, 221, 196); */
+}
+.parrafo .card-img-top {
+  width: 2%;
+
+}
+/* .card-body {
+  background-color: blue;
+  background: transparent 70%;
+} */
+.card-img-top {
+  border-radius: 1rem;
+  float: right;
+  margin-right: 2rem;
+  width: 15%;
+}
+#titulos {
+  border-bottom-style: outset;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 40px;
+  color: rgb(103, 137, 131);
+}
+.card-title {
+  text-align: center;
+  text-emphasis: inherit;
+  font-size: x-large;
+}
+.text {
+  font-size: larger;
+}
+.btn-outline-secondary {
+  background-color: rgb(220, 215, 201);
+  padding: 1rem;
+  text-decoration: none;
+  border: rgb(162, 123, 92) solid;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-size: larger;
+  color: rgb(162, 123, 92);
+  margin-inline: 1rem;
+  margin-top: 2rem;
+}
+.btn-outline-secondary:hover {
+  background-color: rgb(162, 123, 92);
+  color: rgb(220, 215, 201);
+}
